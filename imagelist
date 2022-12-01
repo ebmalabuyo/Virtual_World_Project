@@ -1,0 +1,35 @@
+Trash ./projects/projectFinal/images/trash.png 255 255 255 0
+Spider ./projects/projectFinal/images/spider1.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider2.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider3.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider4.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider5.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider5.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider6.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider7.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider8.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider9.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider10.png 255 255 255 128
+Spider ./projects/projectFinal/images/spider11.png 255 255 255 128
+brick ./projects/projectFinal/images/brick.jpg
+redbrick ./projects/projectFinal/images/web.jpg
+Dude ./projects/projectFinal/images/s1.png 255 255 255 0
+Dude ./projects/projectFinal/images/s2.png 255 255 255 0
+Dude ./projects/projectFinal/images/s3.png 255 255 255 0
+Dude ./projects/projectFinal/images/s4.png 255 255 255 0
+Dude ./projects/projectFinal/images/s5.png 255 255 255 0
+EggDude ./projects/projectFinal/images/r1.png 255 255 255 0
+EggDude ./projects/projectFinal/images/r2.png 255 255 255 0
+EggDude ./projects/projectFinal/images/r3.png 255 255 255 0
+EggDude ./projects/projectFinal/images/r4.png 255 255 255 0
+obstacle ./projects/projectFinal/images/flame.png
+Egg ./projects/projectFinal/images/egg.png
+Poof ./projects/projectFinal/images/poof1.bmp 255 255 255 0
+Poof ./projects/projectFinal/images/poof2.bmp 255 255 255 0
+Web ./projects/projectFinal/images/web.gif
+background_default ./projects/projectFinal/images/none.bmp
+Food ./projects/projectFinal/images/Food.png
+Player ./projects/projectFinal/images/Player1.png
+Player ./projects/projectFinal/images/Player2.png
+Player ./projects/projectFinal/images/Player3.png
+Player ./projects/projectFinal/images/Player4.png

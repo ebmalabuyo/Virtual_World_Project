@@ -1,0 +1,25 @@
+Overview:
+
+- Utilize player to move around world and defend Food Entities.
+- Portals spawn eggs that hatch into Spiders. Spiders' target is Food Entities.
+- Dudes' target are the Spiders. Dudes' destroy Spiders and put them in the trash.
+
+Player Controls:
+-Arrows keys ---> move around
+-SHIFT ---> add Food Entity (right position of player)
+-CONTROL ---> destroy Spider Entity (right position of player)
+
+Questions:
+1 - 2) There is ultimately TWO world events that can be triggered in the game.
+First, by clicking the mouse on an open spot, a web portal will spawn animating
+a web background on surrounding tiles which spawns more Spider Eggs.
+This allows Spiders to spawn which changes the behavior of the Dude Entities
+from this world event. Second, another world event is triggered by the player
+when clicking shift as this spawns more food on the tile to the right and affects the behavior of the Spiders.
+
+Another feature is the player can destroy the spiders to the right of its position with the CTRL button.
+
+3) The effected entities from the world events are the Dudes that destroy the spiders and the Spiders that try to get the food.
+Both the Dude and Spiders are effected as their pathing algorithm will account for the spawned entities and change their target.
+
+4) There are two new entities that come from the world event. A portal will be added with the portal bringing in Spider eggs at a faster action period.
