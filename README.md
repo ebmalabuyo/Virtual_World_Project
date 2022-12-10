@@ -2,7 +2,7 @@
 ![virtualworldsc](https://user-images.githubusercontent.com/101173706/205523026-e0faffa6-cc69-4678-938b-879511df7e4d.png)  <br />
 
 
-Virtual World Simulation and Game. Focused on refactoring code to follow Object-Oriented Programming concepts.  Customized program to make the project my own game.
+**Virtual World Simulation and Game** <br /> Focused on refactoring code to follow Object-Oriented Programming concepts.  Customized program to make the project my own game. <br />
 **Instructions to Play:**  <br />
 Download all files and run through VirtualWorld.java in your preferred IDE (recommend VSCode or IntelliJ).  <br />
 _Will need to change path of imagelist and World.sav on computer_  <br />
