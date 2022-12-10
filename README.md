@@ -4,7 +4,7 @@
 
 Virtual World Simulation and Game. Focused on refactoring code to follow Object-Oriented Programming concepts.  Customized program to make the project my own game.
 **Instructions to Play:**  <br />
-Download all files and run through VirtualWorld.java. 
+Download all files and run through VirtualWorld.java in your preferred IDE (recommend VSCode or IntelliJ).  <br />
 _Will need to change path of imagelist and World.sav on computer_  <br />
 **Objective:**  <br />
 -prevent Spider Entities from capturing food resources  <br />
